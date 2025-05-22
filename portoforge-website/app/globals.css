@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+
+
+.curly-text {
+  font-family: var(--font-dancing-script), cursive;
+}
