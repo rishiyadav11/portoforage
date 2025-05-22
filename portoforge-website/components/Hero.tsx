@@ -30,7 +30,7 @@ const Hero = () => {
       </div>
 
       <h1 className="md:text-7xl text-3xl lg:text-6xl font-bold text-center  relative z-20 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 hover:scale-105 transition-transform duration-300">
-        Welcome to Portoforage
+        Welcome to Portoforge
       </h1>
 
       <h4 className="md:text-5xl text-2xl lg:text-4xl font-semibold text-center  relative z-20 mt-4 bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 hover:scale-105 transition-transform duration-300">
@@ -46,7 +46,7 @@ const Hero = () => {
           className="group relative inline-flex cursor-pointer items-center justify-center text-base rounded-xl bg-gray-900 px-8 py-3 font-semibold text-white transition-all duration-200 hover:bg-gray-800 hover:shadow-lg hover:-translate-y-0.5 hover:shadow-gray-600/30"
           title="Copy Command"
         >
-          {copied ? "Copied!" : "npx create-portoforage"}
+          {copied ? "Copied!" : "npx create-portoforge"}
           <svg
             aria-hidden="true"
             viewBox="0 0 10 10"
