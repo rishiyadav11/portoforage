@@ -51,7 +51,7 @@ const Hero = () => {
             aria-hidden="true"
             viewBox="0 0 10 10"
             height="10"
-            width="10"
+            width="10" 
             fill="none"
             className="mt-0.5 ml-2 -mr-1 stroke-white stroke-2"
           >
