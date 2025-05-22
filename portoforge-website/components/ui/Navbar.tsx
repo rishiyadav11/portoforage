@@ -267,7 +267,7 @@ export const NavbarLogo = () => {
       className="relative z-20 mr-4 flex items-center space-x-2 px-2 py-1 text-sm font-normal text-black"
     >
       <Image className="rounded-md"
-        src="https://www.rishiyadav.me/assets/logo.png"
+        src="/favicon.png"
         alt="logo"
         width={30}
         height={30}
